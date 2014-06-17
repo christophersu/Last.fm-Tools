@@ -6,7 +6,7 @@ Tools for Last.fm.
 ### Tools
 | File | Description |
 | :--- | :----- |
-|  |  |
+| `scrobble-from-json.py` | Reads songs from a JSON file in the same format is Last.fm's output JSON and scrobbles all the tracks in it. |
 
 ### Web App Tools
 * [Evernote Tools](https://github.com/csu/Evernote-Tools)
